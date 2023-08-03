@@ -1,8 +1,7 @@
 # ajaykishore-506
 
 <ul style="list-style-type:circle">
-  <li>One of the important significance of technology is cloud computing. But maintaining the security is another big problem in cloud environment.
-  data may be lost due to interuption or inception in cloud environment</li>
+  <li>Cloud computing is a popular topic in information technology. However, keeping security in a cloud environment is a significant issue as well. Due to interruption or inception in a cloud environment, data may be lost..</li>
   <li>So,to overcome that drawbacks from the security issues. we proposed a system for improving of data in the cloud using hybrid cryptography and using the steganography as one of the stages of secure providing. </li>
   <li>In data encryption phase,we implemented AES symmetric algorithm and RSA asymmetric algorithm as a hybrid Cryptography Algorithms.</li>
   <li>After the completion of encryption phase,we store the encrypted data in a image using LSB algorithm.</li>
