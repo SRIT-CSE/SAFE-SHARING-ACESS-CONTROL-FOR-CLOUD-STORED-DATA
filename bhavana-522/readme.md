@@ -1,11 +1,6 @@
 # bhavana-522
-<html>
-  <head>
-    <b>
-      Abstract
-    </b>
-  </head>
-  <body>
+
+<h1> PROJECT ABSTRACT</h1>
     <p>
       <ol>
         <li>Cloud Computing is one of the important position in information Technology but it faces security issues of data storage in the cloud environment.</li>
@@ -14,5 +9,3 @@
         <li>In the data validation phase we use the SHA Hashing Algorithm,As for the suggestion before hiding the data inn the Image,we compress it by using LZW algorithm</li>
         <li>Yes, By using information concealment technology, and mixed encryption we can achieve strong data security, The resultys showed that the PSNR values of the stego Image are better when the data is first compressed before being concealed.</li>
     </p>
-  </body>
-</html>
