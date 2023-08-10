@@ -23,8 +23,17 @@
         <li>
         Calculate Hashing: We will calculate the hash value of the stego image, The SHA-256 algorithm works for this</li>
         <li>
-          Checking Hash: we validate the calculate hash 
+          Checking Hash: we validate the calculate hash value with stored hash value
     </li>
+        <li>
+          Recovery: The stego-image data will be extracted by LSB algorithm
+        </li>
+        <li>
+          Decompression: After the data is retrieved from the cover image, it is decompressed and retrieved in its original size by using the LZW algorithm. 
+        </li>
+        <li>
+          Decryption: Then the extracted data will be decrypted by the hybrid algorithm
+        </li>
      </li>
   </ul>
 </p>
