@@ -25,6 +25,8 @@
       </li>
       <li>
         The process ofprotecting the data through hiding confidential data in cover object such as image, voice and text. The strength of steganography depends on the ability to integrate the indistinctness data into cover object     </li>
-      
+      <li>
+        The proposed system is to protect the data stored in the cloud by combining the techniques of cryptography and steganography. The encyption is done by using the symmetric encyption algorithm AES256 and the asymmetric encryption algorithm RSA. For the compression of data, we need LSB algorithm. Hash functions are used for the third party confirmation. Coming to the steganography part, we used PSNR and SSIM to check the quality the stego-image.
+      </li>
   </p>
 </body>
