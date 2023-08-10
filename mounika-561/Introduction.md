@@ -15,7 +15,7 @@
         PaaS provides services and applcations to users anytime, anywhere through a web browser.
       </li>
       <li>
-        Despite being having many facts,The problem that arises here is data is stored at a third party and threats are greates when users store their data in a clear form.
+        Despite being having many facts,The problem that arises here is data is stored at a third party and threats arises when users store their data in a clear form.
       </li>
       <li>
         that is why, the techniques are used to protect sensitive data, those are cryptography and steganography.
