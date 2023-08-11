@@ -50,6 +50,7 @@
   </p>
 </body>
 <h1>Proposed System</h1>
+<body>
 <p>
   <ul>
     <li>
@@ -86,6 +87,8 @@
           Decryption: Then the extracted data will be decrypted by the hybrid algorithm
         </li>
      </li>
-  </ul>
+  </ol>
 </p>
+  </ul></body>
+      
 
