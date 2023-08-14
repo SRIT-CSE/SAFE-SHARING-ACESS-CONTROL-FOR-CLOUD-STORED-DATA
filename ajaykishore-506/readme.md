@@ -12,3 +12,7 @@
   <li>By using of information concealment and double encryption system we can improve the security of data that been sent to the cloud.</li>
   <li>In this paper,the values of SSIM and PSNR are calculated along with graph to evaluate the image frequency performance before and after applying the compression algroithm. The data showed that PSNR values of stego-image are better for data that has been compressed.</li>
 </ul>
+
+
+<h1> Introduction </h1>
+In cloud computing, people can quickly and easily do important things with their data, like saving, finding, and moving it. But, there's a challenge making sure the data stays safe. This is because the data is stored with another company, and the biggest risks happen when data is not well protected.
