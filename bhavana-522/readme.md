@@ -19,7 +19,7 @@
 <li> Cryptography is like turning your secret message into a secret code. It's a way to protect important information.
 Encryption Algorithm is a special for making the secret code. It uses a specific key to mix up the message and make it unreadable.
 </li>
-<li>Symmetric Encryption: Imagine you have a special key that can lock and unlock a box. With symmetric encryption, the same key is used to lock (encrypt) and unlock (decrypt) the secret message. It's like having one key for both the lock and the keyhole.
+<li>Symmetric Encryption, it is a imagine you have special key that can lock and unlock a box. With symmetric encryption, the same key is used to lock (encrypt) and unlock (decrypt) the secret message. It's like having one key for both the lock and the keyhole.
 Asymmetric Encryption: Here, there are two keys involved. One key is like a lock, and the other is like a special key that opens the lock. These keys work together to make sure only the right people can read the secret message.
 Decryption: This is like translating the secret code back into the original message. It's the process of turning the scrambled information back to its original form.</li>
 <li>So, cryptography is about making information unreadable to keep it safe. It's like creating secret codes. Encryption algorithms and keys are the tools to make these codes. Symmetric encryption uses one key for both locking and unlocking, while asymmetric encryption uses two keys. Decryption is the reverse process, turning the secret code back into the original message.
