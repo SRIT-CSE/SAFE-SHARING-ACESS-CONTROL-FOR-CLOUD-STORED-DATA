@@ -11,9 +11,9 @@
     </p>
     <h1> INTRODUCTION </h1>
 <p>
-    <o>
+    <o1>
 <li>In recent years, information technology has brought about a major transformation in various organizations, government departments, banks, and more. Cloud computing can be divided into three main types of services: Infrastructure as a service(Iass) cloud computing, Software as a Service (SaaS), and Platform as a Service (PaaS).
-Infrastructure as a Service (IaaS) With IaaS, people can use virtual computers and storage to create their own computer systems.</li></o>
+Infrastructure as a Service (IaaS) With IaaS, people can use virtual computers and storage to create their own computer systems.</li>
 <li> Software as a Service (SaaS) offers tools to make computer programs that work on the internet. It's like giving you a toolkit to create and manage your online apps for tasks like building, testing, and running programs.Platform as a Service (PaaS) gives you everything you need to make and use programs online, like tools and software. It's like having a full workshop where you can build and use your apps easily through a web browser.</li>
 <li> In cloud computing, people can quickly and easily do important things with their data, like saving, finding, and moving it. But, there's a challenge making sure the data stays safe. This is because the data is stored with another company, and the biggest risks happen when data is not well protected.</li>
 <li> Cryptography is like turning your secret message into a secret code. It's a way to protect important information.
