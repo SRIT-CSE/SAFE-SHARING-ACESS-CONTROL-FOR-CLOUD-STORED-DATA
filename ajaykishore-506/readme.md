@@ -16,3 +16,5 @@
 
 <h1> Introduction </h1>
 In cloud computing, people can quickly and easily do important things with their data, like saving, finding, and moving it. But, there's a challenge making sure the data stays safe. This is because the data is stored with another company, and the biggest risks happen when data is not well protected.
+
+This paper suggests a new method to keep cloud-stored data safe. It does this by using both cryptography and steganography together. First, it turns the secret data into a secret code using two special ways: AES256 and RSA. Then, it makes the code smaller and hides it using a special algorithm called LSB.
