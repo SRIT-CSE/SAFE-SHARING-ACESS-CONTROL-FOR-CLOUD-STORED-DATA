@@ -23,30 +23,19 @@
   <p>
     <ol>
       <li>
-        Firstly, The cloud computing is divided into three layers, Those are infrastructure as a service(IaaS), software as a service(SaaS), Platfrom as a service(PaaS)
+        Firstly, a lot of solutions have been proposed based either on Symmetric Searchable Encryption(SSE) or Attitute-Based Encryption(ABE).
       </li>
       <li>
-        IaaS provides users with virtual machines and storage so they can build their infrasructure on them.
+        SSE is an encryption technique that offers security against both internal and external attacks. Howver, since in an SSE Scheme, a single key is used to encyrpt everything, revoking a user would imply downloading the entire encrypted database and re-encrypt it with a fresh key.
       </li>
       <li>
-        SaaS provides services and applications for users in order to use them in building, developing, testing and managing their applications
+        On the other hand, In an ABE Scheme, the problem of revocation can be addressed.
       </li>
       <li>
-        PaaS provides services and applcations to users anytime, anywhere through a web browser.
+        Unfortunately, though the propsed solutions are based on the properties of the underlying ABE scheme and hence the revocation costs grow along with the complexity of the policies.
       </li>
       <li>
-        Despite being having many facts,The problem that arises here is data is stored at a third party and threats arises when users store their data in a clear form.
-      </li>
-      <li>
-        that is why, the techniques are used to protect sensitive data, those are cryptography and steganography.
-      </li>
-      <li>
-        The process of converting data into unreadable code is known as Crptography, We can encrypt the data using key and some encryption algorithms require one key to encrypt and decrypt called symmetric encryption and the algorithms which need two keys to encrypt and decrypt the data known as Asymmetric and they need a public key and a private key for decryption.
-      </li>
-      <li>
-        The process ofprotecting the data through hiding confidential data in cover object such as image, voice and text. The strength of steganography depends on the ability to integrate the indistinctness data into cover object     </li>
-      <li>
-        The proposed system is to protect the data stored in the cloud by combining the techniques of cryptography and steganography. The encyption is done by using the symmetric encyption algorithm AES256 and the asymmetric encryption algorithm RSA. For the compression of data, we need LSB algorithm. Hash functions are used for the third party confirmation. Coming to the steganography part, we used PSNR and SSIM to check the quality the stego-image.
+       To end this, we use these two cryptographic techniques that squarely fit cloud-based environments to design a hybrid encryption scheme based on ABE and SSE in such a way that we utilize the best out of both of the them.
       </li>
   </p>
 </body>
@@ -61,31 +50,25 @@
           Encryption: The hybrid encyption system is used to encrypt the secret data in cloud
         </li>
         <li>
-          Compression: Encrypted data will be compressedto its size and allow more data to be hidden. The techniques used are LZW.
+          The data will be encrypted using a public key before moving into cloud.
         </li>
         <li>
-          Embedding: Hiding the data into cover image using LSB algorithm and create a stego-image as an output.
+          After moving the encrypted data into the cloud, we have certain access that only particular peaople can accsess the cloud data information.
         </li>
       </ol>
       <li>
-        During Encyption System, the secret data is divided into even data and odd data , odd data is encrypted using the AES algorihm with 256 key sizes that generate by random number generator. RNG generates a sequence of numbers that cannot be predicted correctly and are proved the randomize by NIST randomness tests.It is encrypted using RSA algorithm and the public key.
+        For an authenticated user, he/ she can use the cloud data informtion to read and modify.
       </li>
     <li>
-      By the LSB algorithm, every bit of data is hidden, The next stps will be performed by the receiver to retrieve confidential data:
+      By using SSE Algorithm, if the user wants certain particular to be de crypted then the user can extract the particular block of code.
       <ol>
         <li>
-        Calculate Hashing: We will calculate the hash value of the stego image, The SHA-256 algorithm works for this</li>
+        By using ABE Scheme, Not all people can access data only for the certain people the authentication will be given.
         <li>
-          Checking Hash: we validate the calculate hash value with stored hash value
+          These are the two cryptographic algorithms that we use.
     </li>
         <li>
-          Recovery: The stego-image data will be extracted by LSB algorithm
-        </li>
-        <li>
-          Decompression: After the data is retrieved from the cover image, it is decompressed and retrieved in its original size by using the LZW algorithm. 
-        </li>
-        <li>
-          Decryption: Then the extracted data will be decrypted by the hybrid algorithm
+          Here, the security will be strongly provided and also we can extract the particular code of data if we want.
         </li>
      </li>
   </ol>
