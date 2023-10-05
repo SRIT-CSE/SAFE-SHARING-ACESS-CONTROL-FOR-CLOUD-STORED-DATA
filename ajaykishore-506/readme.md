@@ -17,6 +17,4 @@
 <li> Cloud computing has developed so much over the last few years that it now has a significant impact on practically everyone's daily lives.</li>
 <li> Large enterprises and ordinary internet users alike now use the cloud on a daily basis. Many users are still hesitant to outsource their personal information, however, because cloud services are stored and managed by unreliable third parties, making the contents exposed to internal assaults.</li>
 <li>To this purpose, both major industry actors and researchers have looked to the promising methods of symmetric searchable encryption and attribute-based encryption for solutions</li>
-
-<ul style="list-style-type: square">
 <li> Users encrypt their files locally before sending them to the Cloud Service Provider (CSP) in an SSE scheme. As a result, the CSP that does not have the encryption key is unable to obtain any useful data on the users' data. The most intriguing aspect of SSE, though, is that it enables users to perform a direct keyword search on their encrypted data. Sadly, SSE systems do not permit user revocation, which is a critical issue in cloud-based applications. So, removing a user is the same as downloading the whole database and encrypting it again with a new key.</li>
