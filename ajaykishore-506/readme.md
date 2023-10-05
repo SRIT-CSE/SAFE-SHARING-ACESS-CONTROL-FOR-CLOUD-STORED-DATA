@@ -17,3 +17,6 @@
 <li> Cloud computing has developed so much over the last few years that it now has a significant impact on practically everyone's daily lives.</li>
 <li> Large enterprises and ordinary internet users alike now use the cloud on a daily basis. Many users are still hesitant to outsource their personal information, however, because cloud services are stored and managed by unreliable third parties, making the contents exposed to internal assaults.</li>
 <li>To this purpose, both major industry actors and researchers have looked to the promising methods of symmetric searchable encryption and attribute-based encryption for solutions</li>
+
+<ul style="list-style-type◾">
+<li></li>
