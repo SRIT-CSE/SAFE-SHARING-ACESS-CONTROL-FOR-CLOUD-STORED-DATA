@@ -3,14 +3,9 @@
 <h1> ABSTRACT</h1>
 
 <ul style="list-style-type:circle">
-  <li>Cloud computing is a popular topic in information technology. However, keeping security in a cloud environment is a significant issue as well. Due to interruption or inception in a cloud environment, data may be lost..</li>
-  <li>So,to overcome that drawbacks from the security issues. we proposed a system for improving of data in the cloud using hybrid cryptography and using the steganography as one of the stages of secure providing. </li>
-  <li>In data encryption phase,we implemented AES symmetric algorithm and RSA asymmetric algorithm as a hybrid Cryptography Algorithms.</li>
-  <li>After the completion of encryption phase,we store the encrypted data in a image using LSB algorithm.</li>
-  <li>Also we compress the data before hiding the data in an image using LZW algorithm so that the more plain text can be inserted into the image. </li>
-  <li> In the data Validation phase,we use SHA algorithm to find out the hashvalue.</li>
-  <li>By using of information concealment and double encryption system we can improve the security of data that been sent to the cloud.</li>
-  <li>In this paper,the values of SSIM and PSNR are calculated along with graph to evaluate the image frequency performance before and after applying the compression algroithm. The data showed that PSNR values of stego-image are better for data that has been compressed.</li>
+  Cloud Computing has revolutionized the way data is stored and accessed, offering unparalleled convenience and scalability. However, as organizations increasingly rely on cloud services, concerns about data security and privacy in untrusted cloud environments have become paramount.
+So, this project approach is to address these concerns, focusing on access control for symmetrically encrypted data stored in untrusted clouds by combining symmetric encryption techniques with fine-grained access control policies, ensuring data remains confidential even when stored in untrusted cloud environments. The project present a comprehensive framework that allows data owners to define access polices, specifying who can access what pars of encrypted data, and under what conditions.
+
 </ul>
 
 
