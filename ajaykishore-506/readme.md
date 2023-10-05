@@ -3,9 +3,13 @@
 <h1> ABSTRACT</h1>
 
 <ul style="list-style-type:circle">
-  Cloud Computing has revolutionized the way data is stored and accessed, offering unparalleled convenience and scalability. However, as organizations increasingly rely on cloud services, concerns about data security and privacy in untrusted cloud environments have become paramount.
-So, this project approach is to address these concerns, focusing on access control for symmetrically encrypted data stored in untrusted clouds by combining symmetric encryption techniques with fine-grained access control policies, ensuring data remains confidential even when stored in untrusted cloud environments. The project present a comprehensive framework that allows data owners to define access polices, specifying who can access what pars of encrypted data, and under what conditions.
-
+  <li>The issue of safe data storage has emerged with the fast expansion of cloud environments, and both enterprises and end users must address it before sending their data online. Many alternatives have recently been put out that either use Attribute-Based Encryption (ABE) or Symmetric Searchable Encryption (SSE). </li>
+  <li>SSE is a type of encryption that provides protection against both internal and external assaults. </li>
+  <li>Removing a user would require downloading the whole encrypted database and re-encrypting it with a new key because everything is encrypted using a single key in an SSE scheme.   </li>
+  <li> However, since everything is encrypted using a single key in an SSE scheme, cancelling access to a user would require downloading the entire encrypted database and re-encrypting it with a new key. On the other side, the issue of revocation can be resolved in an ABE system.</li>
+  <li> However, because the suggested remedies are depending on the characteristics of the underlying ABE scheme, the revocation costs increase as the rules get more complicated.</li>
+  <li> To this purpose, we build a hybrid encryption scheme based on ABE and SSE in such a manner that we use the greatest features of each of them by using these two cryptographic approaches that are well suited for cloud-based systems.</li>
+  <li> In addition, we employ Intel's SGX features to develop a revocation mechanism and an access control mechanism that are independent of the cryptographic primitives we used in our creation.</li>
 </ul>
 
 
