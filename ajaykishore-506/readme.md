@@ -22,4 +22,4 @@
 
 <h1>Proposed System</h1>
 
-<li> We are proposing a hybrid encryption system that combines both SSE and ABE . The ABE scheme is employed in our construction as a device that enables effective sharing of the SSE key between authorized users. After examining the benefits and drawbacks of SSE and ABE, we suggest a solution that makes use of the finest elements of each method. </li>
+<li> We are proposing a hybrid encryption system that combines both SSE and ABE . The ABE scheme is employed in our construction as a device that enables effective sharing of the SSE key between authorized users. After examining the benefits and drawbacks of SSE and ABE, we suggest a solution that makes use of the finest elements of each method. to allow access control </li>
