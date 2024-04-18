@@ -19,7 +19,7 @@
 
 [Final Thesis] (https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/a1_batch%20document_merged%20pdf.pdf)
 
-##Review ppt<br/>
+## Review ppt<br/>
 [Review-0](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Reviews/review-0.pptx)<br/>
 [Review-1](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/BATCH%20A1%20Review%201.pptx) <br/>
 [Review-2](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/BATCH%20A1%20Review%202%20(1).pptx) <br/>
@@ -27,16 +27,16 @@
 [Final PPT](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Final%20Review%20%20PPT.pptx) <br/>
 [Research Paper](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/ICIAET-P168.docx) <br/>
 
-##Literature Survey Papers
+## Literature Survey Papers
 [Base Paper](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Base_paper.pdf)<br/>
 [survey paper](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/SSE-designandchallenges-1-4.pdf)<br/>
 [survey paper-2](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Public_Key_Encryption_with_Keyword_Search.pdf)<br/>
 [survey paper-3](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/literature%20survey%201.pdf)<br/>
 
-##Video
+## Video
 [Video](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
 
-##Execution Guide
+## Execution Guide
 Step 1: Run the Code Through Eclipse<br/>
 Step 2: Copy the URL and paste on the browser, soon the Interface will Appear.<br/>
 Step 3: Register Yourself with unique Mail ID,Password, Name, Place and Phone Number.<br/>
