@@ -37,15 +37,15 @@
 [Video](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
 
 ##Execution Guide
-Step 1: Run the Code Through Eclipse
-Step 2: Copy the URL and paste on the browser, soon the Interface will Appear.
-Step 3: Register Yourself with unique Mail ID,Password, Name, Place and Phone Number.
-Step 4: After Registering, Login with Mail ID and Password.
-Step 5: Upload the files with a Keyword which is named as Index Number and enable Sharing.
-Step 6: The other can Login with his/her mail id and Password and he who want the file can search the file using the Index Number of the Files that First User has uploaded.
-Step 7: After getting the file, Click on the request nutton and the Request will be sent.
-Step 8: The First User will Accept the Request.
-Step 9: Thereby, The Other User Can Download the File of its Original Form.
+Step 1: Run the Code Through Eclipse<br/>
+Step 2: Copy the URL and paste on the browser, soon the Interface will Appear.<br/>
+Step 3: Register Yourself with unique Mail ID,Password, Name, Place and Phone Number.<br/>
+Step 4: After Registering, Login with Mail ID and Password.<br/>
+Step 5: Upload the files with a Keyword which is named as Index Number and enable Sharing.<br/>
+Step 6: The other can Login with his/her mail id and Password and he who want the file can search the file using the Index Number of the Files that First User has uploaded.<br/>
+Step 7: After getting the file, Click on the request nutton and the Request will be sent.<br/>
+Step 8: The First User will Accept the Request.<br/>
+Step 9: Thereby, The Other User Can Download the File of its Original Form.<br/>
 
 ## Certificates
 ![image](https://github.com/SRIT-CSE/CRYPTOGRAPHY/assets/94584310/d6bb4de2-ecf9-42d3-8ff0-81592dd9cb8c)
