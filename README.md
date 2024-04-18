@@ -15,7 +15,7 @@
 
 ![image](https://github.com/SRIT-CSE/CRYPTOGRAPHY/assets/94584310/88c387c4-5192-4408-bef7-f72a7bc92ac1)
 
-[code] (https://github.com/SRIT-CSE/CRYPTOGRAPHY/tree/master/ProjectFolder/CloudProject)
+[This describe the url for viewing the code](https://github.com/SRIT-CSE/CRYPTOGRAPHY/tree/master/ProjectFolder/CloudProject)
 
 [Final Thesis] (https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/a1_batch%20document_merged%20pdf.pdf)
 
