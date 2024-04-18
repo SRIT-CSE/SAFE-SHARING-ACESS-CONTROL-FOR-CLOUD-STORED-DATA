@@ -34,13 +34,13 @@
 [survey paper-3](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/literature%20survey%201.pdf)<br/>
 
 ## Video
-[Video](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
+[Video](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)<br/>
 
-##Internship Documents
+##Internship Documents<br/>
 [Ajay Kishore](https://github.com/SRIT-CSE/SAFE-SHARING-ACESS-CONTROL-FOR-CLOUD-STORED-DATA/blob/master/ajaykishore-506/506-2.pdf)<br/>
 [Mounika](https://github.com/SRIT-CSE/SAFE-SHARING-ACESS-CONTROL-FOR-CLOUD-STORED-DATA/blob/master/mounika-561/561_android_ppt.pptx)<br/>
 [Harsha Sri](https://github.com/SRIT-CSE/SAFE-SHARING-ACESS-CONTROL-FOR-CLOUD-STORED-DATA/blob/master/harshasri-536/536_android_doc.pdf)
-[Bhavana](https://github.com/SRIT-CSE/SAFE-SHARING-ACESS-CONTROL-FOR-CLOUD-STORED-DATA/blob/master/bhavana-522/BBC%20Doc.pdf)
+[Bhavana](https://github.com/SRIT-CSE/SAFE-SHARING-ACESS-CONTROL-FOR-CLOUD-STORED-DATA/blob/master/bhavana-522/BBC%20Doc.pdf)<br/>
 
 ## Execution Guide
 Step 1: Run the Code Through Eclipse<br/>
