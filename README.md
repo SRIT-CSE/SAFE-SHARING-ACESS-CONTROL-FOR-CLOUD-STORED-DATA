@@ -28,7 +28,10 @@
 [Research Paper](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/ICIAET-P168.docx) <br/>
 
 ##Literature Survey Papers
-[Base Paper](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Base_paper.pdf)
+[Base Paper](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Base_paper.pdf)<br/>
+[survey paper](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/SSE-designandchallenges-1-4.pdf)<br/>
+[survey paper-2](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Public_Key_Encryption_with_Keyword_Search.pdf)<br/>
+[survey paper-3](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/literature%20survey%201.pdf)<br/>
 
 ## Certificates
 ![image](https://github.com/SRIT-CSE/CRYPTOGRAPHY/assets/94584310/d6bb4de2-ecf9-42d3-8ff0-81592dd9cb8c)
