@@ -17,9 +17,9 @@
 
 [This describe the url for viewing the code](https://github.com/SRIT-CSE/CRYPTOGRAPHY/tree/master/ProjectFolder/CloudProject)
 
-[Final Thesis] (https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/a1_batch%20document_merged%20pdf.pdf)
+[Final Thesis documentations](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/a1_batch%20document_merged%20pdf.pdf)
 
-## Review ppt<br/>
+## Review ppt <br/>
 [Review-0](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Reviews/review-0.pptx)<br/>
 [Review-1](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/BATCH%20A1%20Review%201.pptx) <br/>
 [Review-2](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/BATCH%20A1%20Review%202%20(1).pptx) <br/>
