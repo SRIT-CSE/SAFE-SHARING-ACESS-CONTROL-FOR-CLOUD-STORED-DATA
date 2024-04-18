@@ -1,7 +1,7 @@
 # CRYTOGRAPHY
 ## Safe Sharing: Access Control for Cloud Stored Data
 <h3> Abstract </h3>
-<p>This is an abstrct page</p>
+<p>The rapid expansion of cloud environments has brought about a significant challenge to secure data storage. This is a critical consideration for every user when decided to move the data online. To address this challenge, various solutions have been proposed, with two prominent approaches being Searchable Symmetric Encryption and Attribute-Based Encryption. SSE offers protection against both external and internal threats. It allows for efficient search capabilities while maintaining the confidentiality of the data. In an SSE technique, all data is usually encrypted using a single key. The entire encrypted database would need to be downloaded and re-encrypted with a new key if a user was to be revoked. Conversely, though, ABE offers a more granular approach to access control by encrypting data based on attributes and policies. This means that different users or groups can be granted different levels of access to the data based on their attributes.</p>
 
 
  S.No| Name     | Email          |Mobile
@@ -19,7 +19,7 @@
 
 [Final Thesis] (https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/a1_batch%20document_merged%20pdf.pdf)
 
-##Review ppt
+##Review ppt<br/>
 [Review-0](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Reviews/review-0.pptx)<br/>
 [Review-1](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/BATCH%20A1%20Review%201.pptx) <br/>
 [Review-2](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/BATCH%20A1%20Review%202%20(1).pptx) <br/>
@@ -32,6 +32,9 @@
 [survey paper](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/SSE-designandchallenges-1-4.pdf)<br/>
 [survey paper-2](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Public_Key_Encryption_with_Keyword_Search.pdf)<br/>
 [survey paper-3](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/literature%20survey%201.pdf)<br/>
+
+##Video
+[Video](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
 
 ## Certificates
 ![image](https://github.com/SRIT-CSE/CRYPTOGRAPHY/assets/94584310/d6bb4de2-ecf9-42d3-8ff0-81592dd9cb8c)
