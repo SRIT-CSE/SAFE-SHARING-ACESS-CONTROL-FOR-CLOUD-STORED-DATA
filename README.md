@@ -34,7 +34,7 @@
 [survey paper-3](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/literature%20survey%201.pdf)<br/>
 
 ## Video
-[Video] (https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
+[Video](https://github.com/SRIT-CSE/CRYPTOGRAPHY/blob/master/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
 
 ## Execution Guide
 Step 1: Run the Code Through Eclipse<br/>
